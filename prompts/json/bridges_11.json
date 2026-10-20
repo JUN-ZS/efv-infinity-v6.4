@@ -1,0 +1,112 @@
+[
+  {
+    "id": "SET_01_TO_SET_02_BRIDGE_b01",
+    "bridge_code": "b01",
+    "from_set": "SET_01",
+    "to_set": "SET_02",
+    "frame_pair": "SET_01_K09 ➔ SET_02_K01",
+    "title_pair": "交接霓虹脈 ➔ 黑鉻血管流",
+    "foreshadowing_seed": "跨段伏筆 $\\beta_01$ 回收",
+    "prompt": "6-second inter-SET master-cinematography first-and-last-frame bridge morph from [Start Frame: SET_01_K09 (交接霓虹脈)] to [End Frame: SET_02_K01 (黑鉻血管流)] at 1080P 16:9. [V6.4 Inter-SET Foreshadowing Harvest & Lyrical Handoff ([ \"Hard Cut\" ] -> 「——霓虹脉络流淌在——」)]: Transitioning from SET_01#09 [伏筆・跨段門 β] (O_Inv 180/360-deg threshold) to SET_02#01 [起・正] (O_Front 0-deg axial inception), harvesting Inter-SET Foreshadowing Seed beta_01 (β_01【地底霓虹引線】：格09 深入黑鉻地縫的霓虹根鬚（15%），預埋為 SET_02 格01 午夜金屬城市地底奔流的『三聲道黑鉻血管流（55%）』。). [Rational-Poetic Metric Handoff]: Abstraction Index A=0.70 -> A=0.65, Focal Length 18mm Ultra-Wide -> 24mm Wide, Tension Reset T=75% -> T=25% (New Cycle). [Master Bridge Camera Rig]: Low-Slung Hyper-Tracking Handoff（貼地極速滑軌跨SET交接運鏡） (離地 5cm 貼地超高速前推滑軌 (58 BPM ➔ Hard Cut 瞬間切換至 62 BPM)，焦距 18mm 廣角延伸地縫透視線直通 SET_02). [Dual-Mode Continuity Lock]: Seamless under λ_H=1 (Heroine-ON), λ_H=0 (Heroine-OFF Pure Abstract), or cross-SET mode switch (1<->0). [Cross-SET 85% Gene Lock]: h09 霓虹引 (55% in SET_01_K09) transforms along the 3D camera move into the 30% cross-SET residual anchor in SET_02_K01, while the 15% pre-seeded handoff motif (SET02_h01 霓虹脈: 黑鉻地面下的暗青霓虹血管流) expands into the 55% opening core (h01 霓虹脈) of SET_02. [Transition Physics & Vector]: 鏡頭離地五公分貼著黑鉻地縫在 58 BPM Hard Cut 瞬間切換至 62 BPM 向前推進，霓虹引線在鏡頭下方直接延展化為 SET_02 的左中右三聲道黑鉻血管流. [Musical & Lyrical Handoff]: [ \"Hard Cut\" ] (58 BPM ➔ Hard Cut) locking into SET_02 opening 「——霓虹脉络流淌在——」 (62 BPM: 62 BPM Thin groove & sub bass holding back (克制低音與纖細律動下黑鉻霓虹脈流淌)). Seamless topological continuity, abstract poetic tension, text-free."
+  },
+  {
+    "id": "SET_02_TO_SET_03_BRIDGE_b02",
+    "bridge_code": "b02",
+    "from_set": "SET_02",
+    "to_set": "SET_03",
+    "frame_pair": "SET_02_K09 ➔ SET_03_K01",
+    "title_pair": "同軸霧轉輪 ➔ 塵封磁帶機",
+    "foreshadowing_seed": "跨段伏筆 $\\beta_02$ 回收",
+    "prompt": "6-second inter-SET master-cinematography first-and-last-frame bridge morph from [Start Frame: SET_02_K09 (同軸霧轉輪)] to [End Frame: SET_03_K01 (塵封磁帶機)] at 1080P 16:9. [V6.4 Inter-SET Foreshadowing Harvest & Lyrical Handoff (Verse 1A ➔ 1B 呼吸轉磁帶交接 -> 「底噪的磁带—」)]: Transitioning from SET_02#09 [伏筆・跨段門 β] (O_Inv 180/360-deg threshold) to SET_03#01 [起・正] (O_Front 0-deg axial inception), harvesting Inter-SET Foreshadowing Seed beta_02 (β_02【同軸霧輪化磁帶轉軸】：格09 旋轉的半透明霧氣轉輪（15%），預埋為 SET_03 格01 塵封聲學堡壘中啟動旋轉的『巨型盤式磁帶機金屬轉盤（55%）』。). [Rational-Poetic Metric Handoff]: Abstraction Index A=0.60 -> A=0.45, Focal Length 50mm Macro -> 35mm Top-Down, Tension Reset T=75% -> T=25% (New Cycle). [Master Bridge Camera Rig]: 360° Co-Axial Spindle Lock Orbit（360度同軸轉輪咬合環繞運鏡） (鏡頭鎖定霧氣轉輪圓心作 360° 同軸旋轉推進 (Yaw +360° + Dolly In)，使流體霧輪固化為機械磁帶轉盤). [Dual-Mode Continuity Lock]: Seamless under λ_H=1 (Heroine-ON), λ_H=0 (Heroine-OFF Pure Abstract), or cross-SET mode switch (1<->0). [Cross-SET 85% Gene Lock]: h09 側臉霧 (55% in SET_02_K09) transforms along the 3D camera move into the 30% cross-SET residual anchor in SET_03_K01, while the 15% pre-seeded handoff motif (SET03_h01 磁帶機: 塵封聲學堡壘中的老磁帶轉軸輪廓) expands into the 55% opening core (h01 磁帶機) of SET_03. [Transition Physics & Vector]: 鏡頭以霧輪中心為軸作 360 度同步旋轉推進，旋轉的半透明霧氣轉輪向內收縮固化，跨越 SET 邊界直接咬合為 SET_03 塵封磁帶機的金屬轉盤. [Musical & Lyrical Handoff]: Verse 1A ➔ 1B 呼吸轉磁帶交接 (62 BPM) locking into SET_03 opening 「底噪的磁带—」 (62 BPM: 62 BPM Brushed percussion & tape hiss awakening (刷鼓與底噪同構，喚醒塵封磁帶轉盤)). Seamless topological continuity, abstract poetic tension, text-free."
+  },
+  {
+    "id": "SET_03_TO_SET_04_BRIDGE_b03",
+    "bridge_code": "b03",
+    "from_set": "SET_03",
+    "to_set": "SET_04",
+    "frame_pair": "SET_03_K09 ➔ SET_04_K01",
+    "title_pair": "交接齒輪環 ➔ 壓頂巨齒輪",
+    "foreshadowing_seed": "跨段伏筆 $\\beta_03$ 回收",
+    "prompt": "6-second inter-SET master-cinematography first-and-last-frame bridge morph from [Start Frame: SET_03_K09 (交接齒輪環)] to [End Frame: SET_04_K01 (壓頂巨齒輪)] at 1080P 16:9. [V6.4 Inter-SET Foreshadowing Harvest & Lyrical Handoff (Verse 1 ➔ Pre-Chorus 齒輪壓頂交接 -> 「运转—」)]: Transitioning from SET_03#09 [伏筆・跨段門 β] (O_Inv 180/360-deg threshold) to SET_04#01 [起・正] (O_Front 0-deg axial inception), harvesting Inter-SET Foreshadowing Seed beta_03 (β_03【橋頂壓迫的巨型計時齒輪】：格09 磁帶橋盡頭上方浮現的半圈冷鋼齒輪外環（15%），預埋為 SET_04 格01 從天頂斜壓而下的『黑鋼巨型斜齒輪（55%）』。). [Rational-Poetic Metric Handoff]: Abstraction Index A=0.50 -> A=0.55, Focal Length 35mm➔85mm -> 16mm Ultra-Wide, Tension Reset T=75% -> T=25% (New Cycle). [Master Bridge Camera Rig]: Snap-Zoom Gear-Mesh Tilt（齒輪咬合急推仰搖跨SET交接運鏡） (焦距由 35mm 急推至 85mm 特寫鎖定光環與巨齒輪的咬合齒面，隨速度 62➔64–138 BPM 向上猛烈仰搖). [Dual-Mode Continuity Lock]: Seamless under λ_H=1 (Heroine-ON), λ_H=0 (Heroine-OFF Pure Abstract), or cross-SET mode switch (1<->0). [Cross-SET 85% Gene Lock]: h09 回望臉 (55% in SET_03_K09) transforms along the 3D camera move into the 30% cross-SET residual anchor in SET_04_K01, while the 15% pre-seeded handoff motif (SET04_h01 巨齒輪: 上方壓頂而下的冷酷巨型計時齒輪邊緣) expands into the 55% opening core (h01 巨齒輪) of SET_04. [Transition Physics & Vector]: 鏡頭急推鎖定溫暖光環與上方冷酷黑鋼巨齒輪咬合的瞬間，齒輪猛然加速帶動鏡頭向上仰搖，直接切入 SET_04 的壓頂巨齒輪天井. [Musical & Lyrical Handoff]: Verse 1 ➔ Pre-Chorus 齒輪壓頂交接 (62 BPM) locking into SET_04 opening 「运转—」 (64 → 138 BPM: 64→74 BPM The pattern tightens fast (節奏型開始迅速收緊，天頂黑鋼巨齒輪壓下)). Seamless topological continuity, abstract poetic tension, text-free."
+  },
+  {
+    "id": "SET_04_TO_SET_05_BRIDGE_b04",
+    "bridge_code": "b04",
+    "from_set": "SET_04",
+    "to_set": "SET_05",
+    "frame_pair": "SET_04_K09 ➔ SET_05_K01",
+    "title_pair": "空拍轉心促 ➔ 鏡影追逐身",
+    "foreshadowing_seed": "跨段伏筆 $\\beta_04$ 回收",
+    "prompt": "6-second inter-SET master-cinematography first-and-last-frame bridge morph from [Start Frame: SET_04_K09 (空拍轉心促)] to [End Frame: SET_05_K01 (鏡影追逐身)] at 1080P 16:9. [V6.4 Inter-SET Foreshadowing Harvest & Lyrical Handoff (「运——转——」尾音衝入 140 BPM -> 「当自我遗忘了沉默的脚本，」)]: Transitioning from SET_04#09 [伏筆・跨段門 β] (O_Inv 180/360-deg threshold) to SET_05#01 [起・正] (O_Front 0-deg axial inception), harvesting Inter-SET Foreshadowing Seed beta_04 (β_04【138 BPM (衝入 140 BPM 副歌) 空拍穿鏡閃光弧】：格09 胸口撕開黑暗的純白空拍閃光弧（15%），如彈弓般射穿鏡面，預埋為 SET_05 格01 副歌峰值『多重雨夜玻璃幕牆中的錯位追逐鏡影（55%）』。). [Rational-Poetic Metric Handoff]: Abstraction Index A=0.85 -> A=0.60, Focal Length 24mm Crash-Zoom -> 24mm Anamorphic, Tension Reset T=75% -> T=25% (New Cycle). [Master Bridge Camera Rig]: Slingshot Crash-Zoom Through Mirror（彈弓穿鏡爆破跨SET交接運鏡） (在純白空拍弧炸裂瞬間，鏡頭如彈弓般以 138 BPM (衝入 140 BPM 副歌) 穿透光弧中心，直接撞入 SET_05 的多重雨夜失步鏡陣). [Dual-Mode Continuity Lock]: Seamless under λ_H=1 (Heroine-ON), λ_H=0 (Heroine-OFF Pure Abstract), or cross-SET mode switch (1<->0). [Cross-SET 85% Gene Lock]: h09 空白弧 (55% in SET_04_K09) transforms along the 3D camera move into the 30% cross-SET residual anchor in SET_05_K01, while the 15% pre-seeded handoff motif (SET05_h01 失步鏡: 副歌第一高速峰值中錯位追逐的多重玻璃幕牆) expands into the 55% opening core (h01 失步鏡) of SET_05. [Transition Physics & Vector]: 純白空拍弧在最後半拍炸裂為熾熱蜜金心促光脈，鏡頭如彈弓般直線射穿光弧，無縫撞入 SET_05 副歌第一高速峰值的雨夜錯位鏡牆. [Musical & Lyrical Handoff]: 「运——转——」尾音衝入 140 BPM (64 → 138 BPM) locking into SET_05 opening 「当自我遗忘了沉默的脚本，」 (140 BPM: 140 BPM Full lift & wide drums (140 BPM 全面升空與寬廣鼓組，雨夜多重玻璃幕牆中掙脫沉默腳本)). Seamless topological continuity, abstract poetic tension, text-free."
+  },
+  {
+    "id": "SET_05_TO_SET_06_BRIDGE_b05",
+    "bridge_code": "b05",
+    "from_set": "SET_05",
+    "to_set": "SET_06",
+    "frame_pair": "SET_05_K09 ➔ SET_06_K01",
+    "title_pair": "高速切斷連 ➔ 花＋衣＋絲",
+    "foreshadowing_seed": "跨段伏筆 $\\beta_05$ 回收",
+    "prompt": "6-second inter-SET master-cinematography first-and-last-frame bridge morph from [Start Frame: SET_05_K09 (高速切斷連)] to [End Frame: SET_06_K01 (花＋衣＋絲)] at 1080P 16:9. [V6.4 Inter-SET Foreshadowing Harvest & Lyrical Handoff (140 BPM ➔ 65 BPM Hard Drop 臨界斷崖 -> [ \"Break: Hard drop to 65 BPM\" ] / 「靜电—」)]: Transitioning from SET_05#09 [伏筆・跨段門 β] (O_Inv 180/360-deg threshold) to SET_06#01 [起・正] (O_Front 0-deg axial inception), harvesting Inter-SET Foreshadowing Seed beta_05 (β_05【140➔65 BPM 臨界靜電銀霜】：格09 高速流光軌跡被瞬間截斷凍結的靜電銀霜撕裂面（15%），預埋為 SET_06 格01 掉入 65 BPM 真空深淵後緩降的『半朵靜電銀霜花（55%）』。). [Rational-Poetic Metric Handoff]: Abstraction Index A=0.85 -> A=0.65, Focal Length 24mm➔135mm Freeze -> 14mm Ultra-Wide, Tension Reset T=75% -> T=25% (New Cycle). [Master Bridge Camera Rig]: Hard-Brake Vertigo Freeze Handoff（瞬間急煞希區考克凍結跨SET交接運鏡） (140➔65 BPM 硬切瞬間：鏡頭從極速前衝在 1 幀內急煞定格，同時執行劇烈 Dolly-Zoom 將背景拉開為 1 小節超寬真空深淵). [Dual-Mode Continuity Lock]: Seamless under λ_H=1 (Heroine-ON), λ_H=0 (Heroine-OFF Pure Abstract), or cross-SET mode switch (1<->0). [Cross-SET 85% Gene Lock]: h09 靜電回 (55% in SET_05_K09) transforms along the 3D camera move into the 30% cross-SET residual anchor in SET_06_K01, while the 15% pre-seeded handoff motif (SET06_h01 霜花: 140→65 BPM 瞬間硬切後凝結於空氣中的靜電霜花) expands into the 55% opening core (h01 霜花) of SET_06. [Transition Physics & Vector]: 高速狂飆的鏡頭在跨框瞬間急煞定格，熾金光軌在 1 幀內凍結碎裂為 SET_06 的緩降靜電銀霜花，背景瞬間拉開為鼓與銅管全滅的巨大真空. [Musical & Lyrical Handoff]: 140 BPM ➔ 65 BPM Hard Drop 臨界斷崖 (140 BPM) locking into SET_06 opening [ \"Break: Hard drop to 65 BPM\" ] / 「靜电—」 (140 → 65 BPM (Hard Drop): 140→65 BPM Hard drop, strip everything back (驟降至 65 BPM 剝離一切音牆，靜電銀霜花在真空中緩降)). Seamless topological continuity, abstract poetic tension, text-free."
+  },
+  {
+    "id": "SET_06_TO_SET_07_BRIDGE_b06",
+    "bridge_code": "b06",
+    "from_set": "SET_06",
+    "to_set": "SET_07",
+    "frame_pair": "SET_06_K09 ➔ SET_07_K01",
+    "title_pair": "交接潮汐 ➔ 潮地＋女主",
+    "foreshadowing_seed": "跨段伏筆 $\\beta_06$ 回收",
+    "prompt": "6-second inter-SET master-cinematography first-and-last-frame bridge morph from [Start Frame: SET_06_K09 (交接潮汐)] to [End Frame: SET_07_K01 (潮地＋女主)] at 1080P 16:9. [V6.4 Inter-SET Foreshadowing Harvest & Lyrical Handoff (65 BPM Break ➔ Verse 2 低音湧動交接 -> 「心情浮沉如低音涌动」)]: Transitioning from SET_06#09 [伏筆・跨段門 β] (O_Inv 180/360-deg threshold) to SET_07#01 [起・正] (O_Front 0-deg axial inception), harvesting Inter-SET Foreshadowing Seed beta_06 (β_06【刺入透明地層的深海潮絲】：格09 從玻璃花根垂直刺入透明地面下的銀藍與琥珀潮絲（15%），預埋為 SET_07 格01 玻璃地面下翻湧的『Contralto 深海低音潮汐（55%）』。). [Rational-Poetic Metric Handoff]: Abstraction Index A=0.70 -> A=0.60, Focal Length 24mm Sub-Surface -> 24mm Under-Glass, Tension Reset T=75% -> T=25% (New Cycle). [Master Bridge Camera Rig]: Sub-Surface Glass Dive Handoff（穿透玻璃地層潛入深海跨SET交接運鏡） (鏡頭垂直向下穿透透明玻璃地面進入地底深海層，再由 -90° 俯視平滑抬起至水平視角迎接 SET_07 的低音暗潮). [Dual-Mode Continuity Lock]: Seamless under λ_H=1 (Heroine-ON), λ_H=0 (Heroine-OFF Pure Abstract), or cross-SET mode switch (1<->0). [Cross-SET 85% Gene Lock]: h09 潮絲 (55% in SET_06_K09) transforms along the 3D camera move into the 30% cross-SET residual anchor in SET_07_K01, while the 15% pre-seeded handoff motif (SET07_h01 玻璃潮地: 65 BPM 玻璃地面下深海低音湧動的暗潮表面) expands into the 55% opening core (h01 玻璃潮地) of SET_07. [Transition Physics & Vector]: 鏡頭跟隨垂直刺入地底的發光潮絲直接穿透透明玻璃地面，潮絲在玻璃下方水平鋪展，無縫化為 SET_07 女低音獨唱翻湧的深海低音潮汐. [Musical & Lyrical Handoff]: 65 BPM Break ➔ Verse 2 低音湧動交接 (140 → 65 BPM (Hard Drop)) locking into SET_07 opening 「心情浮沉如低音涌动」 (65 BPM: 65 BPM Denser low end & moving bassline tide (濃密低音與流動貝斯線在腳下玻璃地面深處翻湧)). Seamless topological continuity, abstract poetic tension, text-free."
+  },
+  {
+    "id": "SET_07_TO_SET_08_BRIDGE_b07",
+    "bridge_code": "b07",
+    "from_set": "SET_07",
+    "to_set": "SET_08",
+    "frame_pair": "SET_07_K09 ➔ SET_08_K01",
+    "title_pair": "交接邊界 ➔ 夜色釋懷界",
+    "foreshadowing_seed": "跨段伏筆 $\\beta_07$ 回收",
+    "prompt": "6-second inter-SET master-cinematography first-and-last-frame bridge morph from [Start Frame: SET_07_K09 (交接邊界)] to [End Frame: SET_08_K01 (夜色釋懷界)] at 1080P 16:9. [V6.4 Inter-SET Foreshadowing Harvest & Lyrical Handoff (Verse 2 ➔ Suspended Bridge 邊界交接 -> 「夜色中的释怀」)]: Transitioning from SET_07#09 [伏筆・跨段門 β] (O_Inv 180/360-deg threshold) to SET_08#01 [起・正] (O_Front 0-deg axial inception), harvesting Inter-SET Foreshadowing Seed beta_07 (β_07【觸碰夜色邊界牆的橙金波紋】：格09 帶有餘溫的指尖/裂片初觸透明夜色邊界牆所激起的波紋（15%），預埋為 SET_08 格01 分隔系統內外的『巨型透明夜色釋懷邊界牆（55%）』。). [Rational-Poetic Metric Handoff]: Abstraction Index A=0.50 -> A=0.55, Focal Length 100mm➔24mm -> 35mm, Tension Reset T=75% -> T=25% (New Cycle). [Master Bridge Camera Rig]: Boundary-Ripple Lateral Expand Handoff（邊界觸碰波紋擴張跨SET交接運鏡） (鏡頭從指尖/裂片觸碰玻璃邊界的微距接觸點極速拉遠並橫移，讓橙金觸碰波紋擴張為 SET_08 的整面透明夜色邊界牆). [Dual-Mode Continuity Lock]: Seamless under λ_H=1 (Heroine-ON), λ_H=0 (Heroine-OFF Pure Abstract), or cross-SET mode switch (1<->0). [Cross-SET 85% Gene Lock]: h09 手＋界 (55% in SET_07_K09) transforms along the 3D camera move into the 30% cross-SET residual anchor in SET_08_K01, while the 15% pre-seeded handoff motif (SET08_h01 夜色界: 65 BPM Bridge 懸置中分隔城市內外的透明夜色邊界牆) expands into the 55% opening core (h01 夜色界) of SET_08. [Transition Physics & Vector]: 鏡頭鎖定橙金餘溫初觸透明邊界牆的微距接觸點，隨觸碰波紋向上蔓延，鏡頭平滑拉開為 SET_08 Bridge 段分隔系統內外的巨型夜色釋懷邊界. [Musical & Lyrical Handoff]: Verse 2 ➔ Suspended Bridge 邊界交接 (65 BPM) locking into SET_08 opening 「夜色中的释怀」 (65 BPM 懸置失重 → 160 BPM Last Push: Suspended, almost weightless night boundary (懸置失重的透明夜色邊界牆，樂句間留出深邃呼吸空間)). Seamless topological continuity, abstract poetic tension, text-free."
+  },
+  {
+    "id": "SET_08_TO_SET_09_BRIDGE_b08",
+    "bridge_code": "b08",
+    "from_set": "SET_08",
+    "to_set": "SET_09",
+    "frame_pair": "SET_08_K09 ➔ SET_09_K01",
+    "title_pair": "花莖越界橋 ➔ 格內幽靈",
+    "foreshadowing_seed": "跨段伏筆 $\\beta_08$ 回收",
+    "prompt": "6-second inter-SET master-cinematography first-and-last-frame bridge morph from [Start Frame: SET_08_K09 (花莖越界橋)] to [End Frame: SET_09_K01 (格內幽靈)] at 1080P 16:9. [V6.4 Inter-SET Foreshadowing Harvest & Lyrical Handoff (160 BPM Release Valve 衝天交接 -> 「当自我——遗忘了沉默的脚本，」)]: Transitioning from SET_08#09 [伏筆・跨段門 β] (O_Inv 180/360-deg threshold) to SET_09#01 [起・正] (O_Front 0-deg axial inception), harvesting Inter-SET Foreshadowing Seed beta_08 (β_08【160 BPM 衝天發光花莖光橋】：格09 滿載衝破邊界、直衝雲霄的巨型發光花莖光橋（15%），預埋為 SET_09 格01 萬米高空中等待縱身一躍的『160 BPM 舊腳本錯位方格陣（55%）』。). [Rational-Poetic Metric Handoff]: Abstraction Index A=0.65 -> A=0.65, Focal Length 18mm Vertical Crane -> 24mm High-Altitude, Tension Reset T=75% -> T=25% (New Cycle). [Master Bridge Camera Rig]: Vertical Sky-Rocket Crane Ascent Handoff（160 BPM 垂直衝天搖臂跨SET交接運鏡） (鏡頭貼著破界瘋長的發光花莖以 160 BPM 滿載速度垂直衝上萬米高空 (Pitch +85°)，直接頂入 SET_09 的高空腳本方格陣). [Dual-Mode Continuity Lock]: Seamless under λ_H=1 (Heroine-ON), λ_H=0 (Heroine-OFF Pure Abstract), or cross-SET mode switch (1<->0). [Cross-SET 85% Gene Lock]: h09 越界莖 (55% in SET_08_K09) transforms along the 3D camera move into the 30% cross-SET residual anchor in SET_09_K01, while the 15% pre-seeded handoff motif (SET09_h01 腳本殘影: 160 BPM 最終副歌中從舊腳本方格網縱身躍出的幽靈殘影) expands into the 55% opening core (h01 腳本殘影) of SET_09. [Transition Physics & Vector]: 鏡頭貼著破界生長的巨型發光花莖以 160 BPM 滿載速度直衝雲霄，花莖頂端在萬米高空展開，無縫接入 SET_09 最終副歌的高空錯位方格與縱身一躍. [Musical & Lyrical Handoff]: 160 BPM Release Valve 衝天交接 (65 BPM 懸置失重 → 160 BPM Last Push) locking into SET_09 opening 「当自我——遗忘了沉默的脚本，」 (160 BPM: 160 BPM Bigger, wider, opened to the top end (160 BPM 宏大過載高空，掙脫沉默腳本的錯位方格殘影)). Seamless topological continuity, abstract poetic tension, text-free."
+  },
+  {
+    "id": "SET_09_TO_SET_10_BRIDGE_b09",
+    "bridge_code": "b09",
+    "from_set": "SET_09",
+    "to_set": "SET_10",
+    "frame_pair": "SET_09_K09 ➔ SET_10_K01",
+    "title_pair": "不同步花 handoff ➔ 節奏組抽離",
+    "foreshadowing_seed": "跨段伏筆 $\\beta_09$ 回收",
+    "prompt": "6-second inter-SET master-cinematography first-and-last-frame bridge morph from [Start Frame: SET_09_K09 (不同步花 handoff)] to [End Frame: SET_10_K01 (節奏組抽離)] at 1080P 16:9. [V6.4 Inter-SET Foreshadowing Harvest & Lyrical Handoff (160 BPM 巔峰轉入 Decay & Dissolve 交接 -> 「……仍在低鸣」(第1次))]: Transitioning from SET_09#09 [伏筆・跨段門 β] (O_Inv 180/360-deg threshold) to SET_10#01 [起・正] (O_Front 0-deg axial inception), harvesting Inter-SET Foreshadowing Seed beta_09 (β_09【節奏組抽離前的慢速低鳴光環】：格09 齊聚星塵落回掌心、在 160 BPM 巔峰後依然保持獨特呼吸頻率的琥珀花（15%），預埋為 SET_10 格01 節奏組瞬間抽空後的『慢速殘留低鳴光環（55%）』。). [Rational-Poetic Metric Handoff]: Abstraction Index A=0.55 -> A=0.70, Focal Length 50mm➔24mm Pull-Back -> 35mm Float-Back, Tension Reset T=75% -> T=25% (New Cycle). [Master Bridge Camera Rig]: Rhythm-Drop Vertigo Pull-Back Handoff（節奏組瞬間抽空後拉跨SET交接運鏡） (在節奏組瞬間崩塌抽離（Collapse）的一剎那，鏡頭從花蕊近景瞬間向後拉開至深邃黑場，僅留花瓣吐出的低鳴光環接入 SET_10). [Dual-Mode Continuity Lock]: Seamless under λ_H=1 (Heroine-ON), λ_H=0 (Heroine-OFF Pure Abstract), or cross-SET mode switch (1<->0). [Cross-SET 85% Gene Lock]: h09 掌花 (55% in SET_09_K09) transforms along the 3D camera move into the 30% cross-SET residual anchor in SET_10_K01, while the 15% pre-seeded handoff motif (SET10_h01 低鳴環: 最終副歌後節奏組瞬間抽離、僅留慢速殘留主題的低鳴光環) expands into the 55% opening core (h01 低鳴環) of SET_10. [Transition Physics & Vector]: 當 160 BPM 鼓組與重型節奏瞬間抽空時，鏡頭從琥珀花蕊猛然向後拉開，整座喧囂城市瞬間退入深黑，只留花蕊吐出的一圈慢速殘留低鳴光環滑入 SET_10. [Musical & Lyrical Handoff]: 160 BPM 巔峰轉入 Decay & Dissolve 交接 (160 BPM) locking into SET_10 opening 「……仍在低鸣」(第1次) (160 BPM → Decay & Dissolve → Silence: Decay and dissolve, pull the rhythm apart (節奏被拆解拉開，只剩琥珀色慢速低鳴光環失重懸浮)). Seamless topological continuity, abstract poetic tension, text-free."
+  },
+  {
+    "id": "SET_10_TO_SET_11_BRIDGE_b10",
+    "bridge_code": "b10",
+    "from_set": "SET_10",
+    "to_set": "SET_11",
+    "frame_pair": "SET_10_K09 ➔ SET_11_K01",
+    "title_pair": "一拍全靜默 ➔ 心斷連光脈",
+    "foreshadowing_seed": "跨段伏筆 $\\beta_10$ 回收",
+    "prompt": "6-second inter-SET master-cinematography first-and-last-frame bridge morph from [Start Frame: SET_10_K09 (一拍全靜默)] to [End Frame: SET_11_K01 (心斷連光脈)] at 1080P 16:9. [V6.4 Inter-SET Foreshadowing Harvest & Lyrical Handoff ([ \"Silence\" ] -> [ \"Post-Outro: Final glitch burst\" ] / 「—心——斷——連——」)]: Transitioning from SET_10#09 [伏筆・跨段門 β] (O_Inv 180/360-deg threshold) to SET_11#01 [起・正] (O_Front 0-deg axial inception), harvesting Inter-SET Foreshadowing Seed beta_10 (β_10【一拍靜默核心的 Final Glitch Burst (終極故障爆裂) 彈射奇點】：格09 整整一拍乾淨呼吸靜默中懸浮的極微琥珀奇點（15%），預埋為 SET_11 格01 破開靜默、以 Final Glitch Burst (終極故障爆裂) 極速折線彈射的『心斷連白金光脈（55%）』。). [Rational-Poetic Metric Handoff]: Abstraction Index A=0.98 -> A=0.85, Focal Length 100mm Locked-Off -> 24mm Whip-Pan, Tension Reset T=75% -> T=25% (New Cycle). [Master Bridge Camera Rig]: Absolute-Zero Locked-Off Freeze ➔ Final Glitch Burst (終極故障爆裂) Ricochet Snap（絕對零度腳架鎖死靜默 ➔ Final Glitch Burst (終極故障爆裂) 彈射跨SET交接運鏡） (前 5 秒鏡頭如焊死在三腳架上般 100% 絕對靜止（1 Clean Beat of Silence），最後 1 秒毫無預兆地以 Final Glitch Burst (終極故障爆裂) 極速折線甩鏡炸入 SET_11). [Dual-Mode Continuity Lock]: Seamless under λ_H=1 (Heroine-ON), λ_H=0 (Heroine-OFF Pure Abstract), or cross-SET mode switch (1<->0). [Cross-SET 85% Gene Lock]: h09 靜默心 (55% in SET_10_K09) transforms along the 3D camera move into the 30% cross-SET residual anchor in SET_11_K01, while the 15% pre-seeded handoff motif (SET11_h01 心斷連: 1拍絕對靜默後瞬間衝向 Final Glitch Burst (終極故障爆裂) 的心斷連極速光脈) expands into the 55% opening core (h01 心斷連) of SET_11. [Transition Physics & Vector]: 鏡頭在 99.5% 純黑中保持整整一拍乾淨的絕對靜止，在靜默終點的那一幀，極微靜默點毫無預兆地炸裂，鏡頭以 Final Glitch Burst (終極故障爆裂) 極速彈射切入 SET_11 的心斷連光脈. [Musical & Lyrical Handoff]: [ \"Silence\" ] (160 BPM → Decay & Dissolve → Silence) locking into SET_11 opening [ \"Post-Outro: Final glitch burst\" ] / 「—心——斷——連——」 (Final Glitch Burst ➔ Immediate Cold Stop: Final glitch burst ricochet on \"—心——斷——連——\" (破開靜默，終極故障爆裂將心斷連化為極速折線彈射光脈)). Seamless topological continuity, abstract poetic tension, text-free."
+  },
+  {
+    "id": "SET_11_TO_SET_01_BRIDGE_b11",
+    "bridge_code": "b11",
+    "from_set": "SET_11",
+    "to_set": "SET_01",
+    "frame_pair": "SET_11_K09 ➔ SET_01_K01",
+    "title_pair": "零殘響冷停 ➔ 靜電落花",
+    "foreshadowing_seed": "跨段伏筆 $\\beta_11$ 回收",
+    "prompt": "6-second inter-SET master-cinematography first-and-last-frame bridge morph from [Start Frame: SET_11_K09 (零殘響冷停)] to [End Frame: SET_01_K01 (靜電落花)] at 1080P 16:9. [V6.4 Inter-SET Foreshadowing Harvest & Lyrical Handoff ([ \"Sudden Abrupt Cold Stop\" ] (Total black) -> 「靜电—」)]: Transitioning from SET_11#09 [伏筆・跨段門 β] (O_Inv 180/360-deg threshold) to SET_01#01 [起・正] (O_Front 0-deg axial inception), harvesting Inter-SET Foreshadowing Seed beta_11 (β_11【EFV∞ 莫比烏斯無限迴環微塵】：格09 零殘響絕對冷停純黑畫面中唯一未退電的一粒銀珀微塵（15%），在微距鏡頭推入下直接放大還原為 SET_01 格01 開場的『第一片靜電落花雪（55%）』，完成全曲 99 鏡首尾閉環。). [Rational-Poetic Metric Handoff]: Abstraction Index A=0.95 -> A=0.65, Focal Length 100mm Moebius Zoom -> 85mm➔35mm, Tension Reset T=75% -> T=25% (New Cycle). [Master Bridge Camera Rig]: Zero-Reverb Cold-Stop ➔ Infinite Moebius Loop Handoff（零殘響絕對冷停 ➔ 莫比烏斯無限迴環交接運鏡） (零殘響絕對靜止黑場中，微距鏡頭極緩慢推向那唯一一粒未退電的微塵，當微塵在鏡頭中放大並開始斜向飄落時，直接無縫還原為 SET_01_K01 的第一粒靜電雪). [Dual-Mode Continuity Lock]: Seamless under λ_H=1 (Heroine-ON), λ_H=0 (Heroine-OFF Pure Abstract), or cross-SET mode switch (1<->0). [Cross-SET 85% Gene Lock]: h09 冷停心 (55% in SET_11_K09) transforms along the 3D camera move into the 30% cross-SET residual anchor in SET_01_K01, while the 15% pre-seeded handoff motif (SET01_h01 靜電雪: EFV∞ 無限迴環回 SET_01 開場的冷銀靜電雪微粒) expands into the 55% opening core (h01 靜電雪) of SET_01. [Transition Physics & Vector]: 在零殘響絕對靜默的純黑畫面中，鏡頭推向那粒唯一沒有退電的微塵，微塵在 58 BPM 疏落電鋼琴重新切入的瞬間化為 SET_01 #01 的第一片靜電落花，完成 EFV∞ 莫比烏斯無限迴環. [Musical & Lyrical Handoff]: [ \"Sudden Abrupt Cold Stop\" ] (Total black) (Final Glitch Burst ➔ Immediate Cold Stop) locking into SET_01 opening 「靜电—」 (58 BPM ➔ Hard Cut: 58 BPM Sparse electric piano (疏落電鋼琴第一聲單音與靜電雪浮現)). Seamless topological continuity, abstract poetic tension, text-free."
+  }
+]
