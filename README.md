@@ -19,21 +19,22 @@
 
 ```bash
 # 1. 檢視全曲 11 個 SET 總覽與編曲導引標籤
-python3 efv_cli.py
+python3 efv_cli.py list
 
-# 2. 檢視指定段落（例如 SET_05 Chorus 1）的原詞與全部 Prompts（預設為有女主模式 λ_H=1）
-python3 efv_cli.py --set 5
+# 2. 檢視指定段落（例如 SET_05 Chorus 1）的原詞與全部 Prompts（九宮格 + 關鍵幀 + 運鏡 + 橋接）
+python3 efv_cli.py set 5 --mode heroine
 
-# 3. 切換為「無女主純抽象幾何模式 (λ_H=0)」檢索單一關鍵幀
-python3 efv_cli.py --id SET_01_K04 --mode abstract
+# 3. 透過 Prompt ID 取得單一 Prompt（可選 heroine / abstract / dual）
+python3 efv_cli.py get SET_01_K01_1080P --mode abstract
+python3 efv_cli.py get SET_09_p06_MORPH --mode heroine
+python3 efv_cli.py get SET_11_TO_SET_01_BRIDGE_b11
 
-# 4. 檢索任一段內首尾幀運鏡 (p00..p07) 或跨段橋接運鏡 (b01..b11)
-python3 efv_cli.py --id SET_09_p06
-python3 efv_cli.py --id b11
+# 4. 依關鍵字或原詞搜尋對應鏡號與 Prompt
+python3 efv_cli.py search "沙漏"
 
-# 5. 一鍵匯出全曲 99 張關鍵幀的純文字 Prompts（可選 heroine / abstract / dual）
-python3 efv_cli.py --export keyframes --mode heroine --out keyframes_heroine_99.txt
-python3 efv_cli.py --export keyframes --mode abstract --out keyframes_abstract_99.txt
+# 5. 一鍵匯出指定類型的純文字 Prompts（type: all|grids|keyframes|morphs|bridges）
+python3 efv_cli.py export --type keyframes --mode heroine --out keyframes_heroine_99.txt
+python3 efv_cli.py export --type keyframes --mode abstract --out keyframes_abstract_99.txt
 ```
 
 ### B. 重新編譯 V6.4 規格書與重新抽提 JSON / CSV 題詞庫
