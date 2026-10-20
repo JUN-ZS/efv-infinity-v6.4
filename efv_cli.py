@@ -37,10 +37,20 @@ def load_manifest() -> dict:
 
 def select_mode_prompt(item: dict, mode: str) -> str:
     if mode == "heroine":
-        return item.get("prompt_heroine_lambda_1") or item.get("prompt_dual", "")
+        return (
+            item.get("prompt_heroine_lambda_1")
+            or item.get("prompt_dual")
+            or item.get("prompt")
+            or ""
+        )
     elif mode == "abstract":
-        return item.get("prompt_abstract_lambda_0") or item.get("prompt_dual", "")
-    return item.get("prompt_dual", "")
+        return (
+            item.get("prompt_abstract_lambda_0")
+            or item.get("prompt_dual")
+            or item.get("prompt")
+            or ""
+        )
+    return item.get("prompt_dual") or item.get("prompt") or ""
 
 
 def cmd_list(data: dict) -> None:
@@ -86,7 +96,7 @@ def cmd_set(data: dict, set_num: int, mode: str) -> None:
         print(f"  • [{m['id']}] ({m.get('transition', '')})")
         print(f"    {select_mode_prompt(m, mode)}")
 
-    br = next((b for b in data["inter_set_bridges"] if b["set_id"] == set_id), None)
+    br = next((b for b in data["inter_set_bridges"] if b.get("from_set") == set_id), None)
     if br:
         print(f"\n[4] 跨 SET 伏筆交接影片 ({br['id']}):")
         print(f"    {select_mode_prompt(br, mode)}")
